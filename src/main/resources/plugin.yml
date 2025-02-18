@@ -1,0 +1,5 @@
+name: CraftBridge
+version: '1.0'
+main: me.dnoc.craftBridge.CraftBridge
+api-version: '1.20'
+description: A REST API bridge for Minecraft server interaction

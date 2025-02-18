@@ -1,0 +1,8 @@
+# CraftBridge Configuration
+
+# The port the API will listen on
+port: 4567
+
+# The API key required for authentication
+# CHANGE THIS IN PRODUCTION!
+apiKey: "change-this-key"
