@@ -1,0 +1,7 @@
+# CraftBridge Test Configuration
+
+# The port the API will listen on
+port: 4568
+
+# The API key required for authentication
+apiKey: "test-api-key" 
